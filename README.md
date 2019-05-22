@@ -3,8 +3,10 @@ Resume Editor that replaces keywords with the desired parameters.
 by Mark P
 
 #Prerequisites: 
-1.Install python 2 from python's official website.
+0. Windows OS only
+1. Install python 2 from python's official website.
 https://www.python.org/downloads/release/python-2715/
+2. Add python to Windows PATH. Google it.
 
 #Instruction:
 1. Place template resume inside template folder
