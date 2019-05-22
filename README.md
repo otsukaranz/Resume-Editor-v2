@@ -2,8 +2,8 @@
 Resume Editor that replaces keywords with the desired parameters.
 by Mark P
 
-#Prerequisites:
-Install python 2 from python's official website.
+#Prerequisites: 
+1.Install python 2 from python's official website.
 https://www.python.org/downloads/release/python-2715/
 
 #Instruction:
