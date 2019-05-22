@@ -1,7 +1,8 @@
-Resume Editor v2
+# Resume-Editor-v2
+Resume Editor that replaces keywords with the desired parameters.
 by Mark P
 
-Instruction:
+#Instruction:
 1. Place template resume inside template folder
 2. Modify template keywords applicable:
     <date> - current date
